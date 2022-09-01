@@ -1,5 +1,4 @@
 .ipynb_checkpoints
 .venv
 Logs
-MP_Data
 *.h5
